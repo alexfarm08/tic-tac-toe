@@ -1,5 +1,3 @@
-<img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" />
-
 # Tic Tac Toe
 
 A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate DOM manipulation, modular JavaScript patterns, and game logic skills. Two players take turns placing X and O on a 3x3 board, with the game detecting wins and updating the screen after every move.
@@ -79,3 +77,6 @@ open index.html
 ```
 
 No build step or dependencies are required. On Windows use `start index.html`, on Linux use `xdg-open index.html`, or just double-click `index.html`.
+
+
+<img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" />
