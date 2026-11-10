@@ -1,3 +1,5 @@
+<img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" />
+
 # Tic Tac Toe
 
 A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate DOM manipulation, modular JavaScript patterns, and game logic skills. Two players take turns placing X and O on a 3x3 board, with the game detecting wins and updating the screen after every move.
@@ -6,13 +8,13 @@ A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate
 
 * * *
 
-## 📸 Screenshot
+## Screenshot
 
 [![Tic Tac Toe screenshot](imgs/Screenshot%202025-07-15%20at%2010.07.57%E2%80%AFAM.png)](imgs/Screenshot%202025-07-15%20at%2010.07.57%E2%80%AFAM.png)
 
 * * *
 
-## 🚀 Features
+## Features
 
 - **Classic gameplay:** Standard 3x3 Tic Tac Toe board.
 - **Two-player support:** Players take turns as X and O.
@@ -34,7 +36,7 @@ A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate
 
 * * *
 
-## 🧩 Modules
+## Modules
 
 | Module              | Description                                                                          |
 |---------------------|--------------------------------------------------------------------------------------|
@@ -45,7 +47,7 @@ A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate
 
 * * *
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **HTML** – Page structure and semantic markup.
 - **CSS** – Styling for the board and layout.
@@ -53,7 +55,7 @@ A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate
 
 * * *
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - **Modular JavaScript** using factory functions and closures.
 - **Separation of concerns** between game logic and UI rendering.
@@ -63,7 +65,7 @@ A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate
 
 * * *
 
-## ⚡ Installation & Usage
+## Installation & Usage
 
 ```bash
 # Clone the repository
