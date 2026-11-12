@@ -1,4 +1,6 @@
-<a href="https://github.com/alexfarm08"><img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" /></a>
+<a href="https://github.com/alexfarm08">
+  <img width="1206" height="307" alt="Untitled-2" src="https://github.com/user-attachments/assets/7ee1f847-a92c-4f3a-9e71-8e148ab9fda6" />
+</a>
 
 # Tic Tac Toe
 
