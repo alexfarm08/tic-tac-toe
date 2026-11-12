@@ -1,3 +1,5 @@
+<a href="https://github.com/alexfarm08"><img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" /></a>
+
 # Tic Tac Toe
 
 A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate DOM manipulation, modular JavaScript patterns, and game logic skills. Two players take turns placing X and O on a 3x3 board, with the game detecting wins and updating the screen after every move.
@@ -63,6 +65,21 @@ A simple and interactive **browser-based Tic Tac Toe game** built to demonstrate
 
 * * *
 
+## Case Study
+
+### Objective
+The task was to build a fully functional game of tic tac toe on a webpage. The reason behind building this was to get practice with JavaScript and local storage. 
+
+### Synoposis
+This work is a childhood game brought to the web. There are a lot of variations of this project on the web and was inspired from one of the Odin projects and one of their javaScript projects meant to test the skills that you have learned up to that point. 
+
+### Process
+The process for this project started with getting a clear understanding of what the project requirements were. After getting a good understanding I moved into making the game work in the console with javaScript. After having a working game I used wireframe tools and sketches to get an idea of what I wanted the project's user interface to look like. Next once I had a working game in the console and a user interface I combined the two parts to end up with the finished project. 
+
+### Results
+There was no specific deadline for this project as it was a personal project I used to practice my skills as a web developer. The project can be viewed on my github profile and coming in the future on my website. 
+
+
 ## Installation & Usage
 
 ```bash
@@ -77,6 +94,3 @@ open index.html
 ```
 
 No build step or dependencies are required. On Windows use `start index.html`, on Linux use `xdg-open index.html`, or just double-click `index.html`.
-
-
-<img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" />
